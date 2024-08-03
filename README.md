@@ -1,3 +1,6 @@
+Hello World! Welcome to my coding page where I build cool stuff! 
+
+Here are some skills I have acquired in Vanier College
 <img src="https://github.com/MeganeKickouama/MeganeKickouama/assets/98486075/c25f0d27-abcf-4ead-976a-c9af9c2ef440" width="70" height="70">
 <img src="https://github.com/MeganeKickouama/MeganeKickouama/assets/98486075/e06e367a-5c78-4199-8875-1a635f056e83" width="70" height="70">
 <img src="https://github.com/MeganeKickouama/MeganeKickouama/assets/98486075/0085dcfd-b5c1-48cc-a505-0a9236168a22" width="70" height="70">
