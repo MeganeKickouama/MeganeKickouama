@@ -1,6 +1,4 @@
-<h2>Hello World! Welcome to my coding page where I build cool stuff!</h2>
-
-<h4>Here are some skills I have acquired in Vanier College</h4>
+<h4>My Skills to date</h4>
 <br><br>
 <img src="https://github.com/MeganeKickouama/MeganeKickouama/assets/98486075/c25f0d27-abcf-4ead-976a-c9af9c2ef440" width="70" height="70">
 <img src="https://github.com/MeganeKickouama/MeganeKickouama/assets/98486075/e06e367a-5c78-4199-8875-1a635f056e83" width="70" height="70">
